@@ -1,10 +1,16 @@
-# telco-customer-churn-prediction
+# Telco Customer Churn Prediction
 
-## Objective
+An end-to-end machine learning project for predicting customer churn using the IBM Telco Customer Churn dataset.
 
-The objective of this project is to demonstrate the complete machine learning workflow from understanding a business problem to building and evaluating a predictive machine learning model.
+The project covers data preprocessing, exploratory analysis, feature engineering, model training, evaluation, and business interpretation using Python and Scikit-learn.
 
-This project combines all the concepts learned throughout the previous learning projects.
+---
+
+## Problem Statement
+
+Customer churn is a major challenge for telecommunications companies. Identifying customers who are likely to discontinue their service can help businesses take proactive retention measures.
+
+The goal of this project is to build a machine learning model that predicts whether a customer is likely to churn based on demographic information, account details, and service usage patterns.
 
 ---
 
