@@ -100,7 +100,7 @@ The trained model can help businesses:
 ## Project Structure
 
 ```text
-10-End-to-End-ML-Workflow/
+telco-customer-churn-prediction/
 
 ├── data/
 ├── images/
