@@ -1,4 +1,4 @@
-# Project 10: End-to-End Machine Learning Workflow
+# telco-customer-churn-prediction
 
 ## Objective
 
