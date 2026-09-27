@@ -14,14 +14,6 @@ The goal of this project is to build a machine learning model that predicts whet
 
 ---
 
-## Business Problem
-
-Customer churn is a major challenge for telecommunication companies.
-
-The objective is to predict customers who are likely to leave the company so that proactive retention strategies can be implemented.
-
----
-
 ## Machine Learning Workflow
 
 1. Business Understanding
